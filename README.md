@@ -13,9 +13,9 @@ Swingを使用して、パステルカラーのかわいい電卓（GUI）を実
 
 使い方
 
-1.EclipseやVS CodeなどのIDEでプロジェクトを開きます。
-2.Calculator.java を実行して電卓を起動します。
-3.GUI上で数式を入力して計算結果を得ることができます。
+1. EclipseやVS CodeなどのIDEでプロジェクトを開きます。
+2. Calculator.java を実行して電卓を起動します。
+3. GUI上で数式を入力して計算結果を得ることができます。
 
 必要な環境
 - EclipseやVS CodeなどのIDE
